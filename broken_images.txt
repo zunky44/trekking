@@ -1,0 +1,1 @@
+a:1:{s:18:"photo-gallery.html";a:2:{i:0;s:63:"uploads/gallery/thumb/423563_10150585850906956_1594951601_n.jpg";i:1;s:54:"uploads/gallery/thumb/Bhaktapur-Heritage-Place-131.jpg";}}

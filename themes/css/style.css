@@ -1,0 +1,50 @@
+@import "colors.css";
+@import "template.css";
+@import "all.css";
+@import "font-awesome.min.css";
+.footer-nav {
+  list-style-type: none;
+  color: white;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer-nav>li>a {
+  color: white;
+  text-decoration: none;
+  background-color: transparent !important;
+}
+
+.footer-nav>li>a:hover {
+  text-decoration: none;
+  background-color: transparent !important;
+}
+
+footer {
+  color: white !important;
+}
+        
+.inner-box{
+    border: 1px solid #85B0D1;
+    border-radius: 5px;
+}
+@media only screen and (max-width: 900px) {
+    .footer-nav{
+        text-align: center !important;
+    }
+}
+
+.footer-note{
+    margin-top: 50px;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .footer-note{
+        margin-top: 5px;
+    }
+}
+.row>div>a {
+    cursor: pointer !important;
+}
